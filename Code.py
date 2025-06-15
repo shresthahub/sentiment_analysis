@@ -265,7 +265,7 @@ formatted_pdf['body'] = formatted_pdf['body'].str.replace('\n', ' ').str.strip()
 formatted_output_path = "/Users/anustha/Desktop/GROUP 6 BIG DATA/comments_with_sentiment.csv"
 formatted_pdf.to_csv(formatted_output_path, index=False)
 
-print(f'✅ Formatted comments saved to: {formatted_output_path}')
+print(f' Formatted comments saved to: {formatted_output_path}')
  
 # Stop Spark session
 spark.stop()
