@@ -1,0 +1,572 @@
+window_start,window_end,cleaned_body,sentiment
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,i just liked that incoming calls won’t take up star entire screen in carplay.,positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"production value of these intro segments have obviously reached a new peak. this feels like craig's fantasy.  
+
+impressions:
+
+**new design**
+
+- vp of human design alan dye sits in a room full of colorful glass panes and moves them over each other all day. what do you do for work?
+- launching on all platforms
+- liquid glass - aqua is back!
+ - animated transitions and light refraction - combo of dynamic island, ipados cursor, and aqua
+ - ngl the animations are pretty slick
+
+**ios 26**
+
+- moving to year based numbering - apple not too worried about what happens after 2099
+- lock screen
+ - dynamic scaling time on lock screen that shifts around as notifications come in
+ - ml generated spacial 3d effect on when you move - good use of the vision os spacial photo upscaling
+ - animated album art
+- camera app - simplified interface with swipe controls 
+- photos app - minor ui refresh with spacial photos
+- safari tab bar now shrunk smaller into animated liquid glass bubbles 
+- carplay redesign, updated interface and widgets
+ - carplay ultra also updated to liquid glass for those bentley drivers out there dying for an update after *checks apple watch*, one month!
+- phone app - unified layout for favorites, recents, voicemail
+ - automatic call screening answering calls in background - pixel had this for a while and its good to see ios adding this finally
+ - hold assist to help keep spot in line without listening to hold music 
+- messages app 
+ - animated backgrounds
+ - polls
+ - apple cash request and sending in groups
+ - typing indicators in group chats
+ - spam screening to sweep away unknown senders
+- emojis can be combined into new emojis - finally our long national nightmare is over, you can make a sloth that sings karaoke
+- live translate text as you type, and in facetime 
+- apple music
+ - lyrics translation
+ - lyrics pronunciation - big day for the annoying kpop fan in your life
+ - automix between songs to flow between music
+ - pin favorite music to top of library
+- maps - the mockup is unrealistic. living in presidio, school at palace of fine arts, and working at ft mason park? who has this lifestyle? 
+- wallet
+ - increased carkey and driver license adoption
+ - digital id with us passport for domestic travel - cant wait for airports to support this but not actually allow it
+ - refreshed boarding passes with indoor maps, find my, and shareable live activities - neat!
+ - order tracking
+- games app - central app to manage apps, friend leaderboards
+- visual intelligence can see your screen now when you screenshot to do things like search for products, create calendar events, answer questions
+- whew! big update this year!
+
+**watchos 26**
+
+- you know the gym is staged because they have good form and aren't slamming weights
+- workout buddy - gathers all the data from workouts and ""identifies meaningful insights""
+ - jumps in with ai generated encouragement and status updates 
+ - mine is going to say ""wow you got 5 hours of sleep, your worst yet, go get it king!""
+- notification sounds are dimmed in quiet settings
+- wrist flick to dismiss notifications
+- context based actions in messages like surfacing sharing location
+- notes app
+
+**tvos 26**
+
+- cinematic poster art
+- appletv has lots of shows coming
+- use iphone as karaoke mic
+
+**macos 26 - tahoe**
+
+- craig federighi carrying the apple humor entirely on his back
+- redesign allows you to make macos as ugly as you desire, even all pink!
+- live activities from iphone
+- shortcuts can call ai models as part of a shortcut
+- spotlight
+ - can issue commands and take action directly in spotlight even within apps
+ - short keys to keybind letters to actions
+- new: phone app, games app, journal app
+
+**visionos 26**
+
+- spacial widgets to decorate spaces - you can do things simply not possible in the real world like putting a clock on the wall or hanging a picture!
+- improved spacial photos with better 3d
+- safari spacial browsing: like a reader mode but for vr, look to scroll
+- improved personas - disembodied horrors of our own making! 
+- shared spacial experiences in the same room so you can now watch the same movie not on a tv but on everyone's own personal vision pro, the future is here!
+- support for playstation vr2 sense controllers
+- support for 180-degree, 360-degree, and wide field-of-view content from insta360, gopro, and canon
+- unlock phone while wearing vision pro - big day for looking at a blurry iphone screen through my headset
+- better sharing, now my friends don't need to redo set up before trampling through the os like they've never used a ui before
+- folders on home screen - technology has finally progressed to allow this to happen
+
+
+**ipados 26**
+
+- we macos now, bois!
+ - macos style window controls and tiling
+ - macos style regular mouse pointer and trackpad gestures
+ - macos style menu bar for apps
+ - available for all ipads, big day for the ipad pro mini crowd
+- updated files app
+ - updated list view
+ - set a default app for opening specific file types
+ - folders in dock
+- preview app - dedicated app for opening files and marking up pdfs
+- background tasks - keep tasks running in background. - now what will the ipad-as-production-tool community complain about? oh, right, lack of audio input controls!
+- new audio input control on an app by app basis
+- other: reed pen, 3d graphing in calculator, import/export notes in markdown, accessibility reader
+
+**other**
+
+- airpods
+ - improved recording quality
+ - control camera by pressing stem
+- vibe coding in xcode
+- apple intelligence
+ - model refinements, expansion to more languages
+ - new api to access on-device model
+
+
+that was probably my longest one yet. the sheer volume of info they can cram in and still shave off half an hour vs the old live events is insane. anyways, here's your ai break so enjoy it before next year when we get an hour of apple intelligence 2.",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,who else is stoked for the biggest ever update to ipados? this truly is the ipados for ultra pros!,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,the ipad updates look to be surprisingly good - everything else was kinda meh other than apple music.,positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"friendly warning to anyone who wants to try ios 26 as someone who’s running the beta on an iphone 15 pro and ipad (10th generation): 
+
+it’s really, really laggy and broken.",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"i was actually really excited for a lot of the updates, especially as someone who came into this thinking it will be a miss:
+
+- i like the overall design, i love that we have more floating ui
+- i like the lockscreen changes
+- i like all the new messages additions, i feel like everyone's been asking for more features and group typing animations
+- i loved the carplay changes, live activities + no more full screen calls
+- call screening + call hold are amazing qol features
+- live translation (on paper) is very useful
+- apple music live mixing or whatever that's called is sick
+- admitting the f'd up the photos app and giving us back that tab was great
+
+i am way more excited about features this ios than last ios. ipad os was amazing too with the new files app, preview (both should have came to iphone too btw) and inching it closer to macos. i was laughing when they showed the window management and the hidden menu bar, like bruh just let us boot macos already.
+
+additionally as a mac user i really liked live activities syncing, shortcut updates, and ripping of raycast (lol) but it was pretty barren of an update. although you can only do so much. funny seeing vista-like ui elements on mac almost two decades later though lol.
+
+biggest miss was obviously ai. i really wished they would have provided some deeper integration with third party ais or something to bridge the gap. i love using perplexity's assistant mode and it feels like an alpha version of what an ai assistant looks like on ios.",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,just installed the dev beta and i think theres going to be some serious pushback on this redesign. the liquid glass doesnt really work at all like they showed in the demo and near full transparency of elements makes it incredibly hard to make out what im looking at in certain instances. this is a huge regression in terms of design and accessibility standards.,positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,ios 26: windows vista edition,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"overall, really pleased by everything that was released today. a modest redesign, more parity, new features. ipados was the big winner. still looking forward to homeos. 👀",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,why was the post-event megathread created so late?,negative
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"honestly i'm satisfied with the new updates.  
+way better than the past few years, although we still need a ""snow leopard"" kind of an update",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"not gonna lie, that opening f1-sequence was pretty badass",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"felt like some really good quality of life updates to ios and carplay, looking forward to release in sept/oct.  the updated glass interface is nice looking and welcome, but doesn’t feel like something amazing and new like they were saying.",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"i’m really interested to see what devs do with the on-device models.
+
+i think with all the concerns about ai’s ecological impact, a lot of stuff we see in apps can be shifted to on-device models. and the fact that apple is (to my knowledge) just letting devs have access to this for $99/yr is wild.",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,so few features for iphones not supporting apple intelligence. it was expected of course but still sucks,negative
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,i missed parts of the event due to a work meeting. the rumor that gemini was going to be integrated alongside chatgpt turned out to be false? ,negative
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"https://preview.redd.it/7nklhjnaly5f1.png?width=2560&format=png&auto=webp&s=5e9c0f2512831c077fc27030bf32b36deec4f4ca
+
+here’s the macos tahoe wallpaper! (1440p)",neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,invasion? 🤦,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"i like the new design, love the new ipad features.",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,left-aligned dialogs are back 🥳,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"here’s the wallpaper for ios 26!
+
+https://preview.redd.it/rbymoyo2ly5f1.jpeg?width=1080&format=pjpg&auto=webp&s=f4e9443676c15bc44458fbd026a6358f6909551b
+
+tell me if the quality stinks.",negative
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,i like the new design. can't wait to use it.,positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"i don’t mind it as much and i feel like the final version is usually more refined than what is shown. 
+on a semi unrelated note - fuck the verge for paywalling their liveblog.",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,“we have macos at home”,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"i don’t care what anyone on this dumb website thinks.
+liquid glass looks awesome and the design looks a lot better now. i see quite a few less 3 dot menus, which is awesome as well. it’s super beautiful, and i liked how it’s bringing apple’s spatial design to everything. this is going to be so cool! 
+
+i’m super excited for this. this event felt a lot more human (and very apple) compared to  google’s ai ai ai ai ai ai ai ai event. ",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"i made the mistake of falling for the rumor that this was going to showcase a significant re-design of the operating systems. it was a tweak.
+
+there were some nice features introduced, and i think i'll generally like it all. there was just nothing earth-shattering. which i suppose is to be expected.",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,chatgpt where are you keeping siri locked up??,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,this liquid glass thing will 100% flop after beta rolls out,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"as is often the case with these recent events, they took what could've been a press release or web page and stretched it out into a major hour-and-a-half long ordeal.",negative
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,so i can finally set my phone theme as hot dog stand?,positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"can someone clarify. 
+
+will iios26 automatically make those live activities for flights in your wallet?",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,i have a rather silly question: will i need to do anything to my cars headunit for the new apple carplay ui or will it work automagically once the ios26 update is live? my car is the first apple carplay equipped i’ve owned so wondering if i’ll need to do anything for the new features like the smaller call banner.,positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,meh,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"so far so good with the beta on my phone and tv. it is quite pretty. a bit laggy here and there, tried shuffling through my lock screen photos to see the different clock effects but it didn’t really cooperate well. 
+
+screenshots are very annoying now. i don’t want to manage it at the time. i want to laugh at the stupid face my friend made not go into crop and edit mode",negative
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"the iphone xs does not get ios 26, but the ipad air 3rd generation with the same cpu and less ram gets ipados 26.
+
+seems like iphone xs is excluded artificially to push users to upgrade to a new iphone",negative
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,any stage manager for iphone?,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,the formatting in this comment is **elite**. thank you,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"i was really glad to see journal on both ipados and macos. i know it seems small and trivial, but i’m hoping that this is a change that is they are going to create an app for ios, that they release it across devices at the same time. i won’t try and say release journal to be used on the web through icloud.com. that would be asking for too much.",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"love this comment! a few features that were standouts to me that you didn't mention:
+
+- photos app restores the old collections tab
+- live translate (allegedly) works on facetime calls with captions and real-time translation on cellular calls
+- no more full-screen incoming calls for carplay + live activities on the multi-view screen + aod-style widgets screen (still confused on how this will look)",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"love the commentary and writing style, very entertaining to read through",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,rendering glass effects is resource hungry. fully expecting older hardware to struggle.,positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,sounds like this is going to be ios 7 all over again.,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,yikes,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,you never used mac os x? it’s what vista copied.,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,aero,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"you’ve never seen aqua?
+
+you’ve never seen apple’s spatial os, which is literally what this is modeled after?
+
+cmon",neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,i forgot to schedule one ahead of time as we usually do.,negative
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"also, not gonna lite, that liquid glass looks kinda sweet",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"yeah its just effectively a mild design tweak, when they said they were trying to align all the operating systems i expected more functionality, not just a new translucent overlay.",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"good news for you, they did both",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,the fuck are you talking about? you really expect them to produce more than this *each year*? and a new design language for the entire os suite is a press release in your mind?,positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"as is often the case with these recent events, there is a bunch of noisy whining that could have been left in the drafts.",neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,no need,neutral
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,hows readability with the new interface? any problems with text mixing in with background colors?,positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"when apple's aqua ui debuted, it was all about glossy buttons and pinstripes everywhere. i don't recall any translucent glass or blurring. windows aero was different from aqua- translucent glass windows and menu bars that would blur everything behind them. it looked nice.
+
+os x didn't start doing that until after windows vista.
+
+compare any version of os x from 2001 to 2006 to vista. they look totally different. os x went from candy buttons and pinstripes, to brushed metal. nothing like vista.",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"the worst parts of transparency bleeding colors behind your windows, started in macos mojave, now cranked up all the way.",negative
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"and then apple said, let’s copy the worse things from vista",negative
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,exactly,positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"aqua wasn’t this translucent glass style at all. it was glossy buttons and striping. it was fresh and very cool.
+
+this is way closer to vista’s design language, which yes, apple borrowed from for their vr os- and to be fair they did a beautiful job.
+
+it works very well for a 3d spatial os- there’s real life stuff behind the windows in real time. 
+
+on a phone, this looks like a headache imo.
+
+i don’t like it lol",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"1000000%
+
+fuck their mentality. i’m tired of stupid trolls lol",negative
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"it’s very… bubbly. i enjoy that aspect of the liquid glass. i haven’t noticed readability being difficult. 
+
+it does feel very beta-ey. things don’t pop up quickly or as easily.",positive
+2025-06-09T20:00:00.000-05:00,2025-06-09T21:00:00.000-05:00,"it was all about liquidy buttons and transparency everywhere, including windows and menus.",neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,from platform state of the union: tahoe will be last os for intel macs. get your apple silicon soon!,neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,they better keep the option to reduce transparency after this update…or else,positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"vision os getting controller support and more entertainment/productivity updates for businesses is underrated.
+
+the ability to have multiple personnel share a device and have shareable files that can be restricted via it is very nice to have for industrial businesses like automanufacturer design teams that can't justify buying like 10 visions but could justify one or two with 12 user profiles. hopefully apple is smart and gives good tools to it teams.
+
+i'm hoping that these are signs that they are looking to release a 2000-2500 cheaper model that doesn't have the fancy stuff like the magnesium but keeps vision os and the cpu.",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,feels like there’s a mismatch with what the product team hears and what customers want. people have been hoping for more stability and functional features. but instead it seems like visual branding stays a priority this year.,positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"why is visual intelligence still relying on typing, why can't i use my voice? i figured this was an 18.2 oversight but it's still in ios 26?",neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,i can’t wait to put apple support themselves on hold,neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,omg groups chats organization yassssssss!,neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,is it me or do the icons for the new ios update looks pixelated/blurry? they don’t look hd at all like before ,positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,i feel like apple has lost the plot. it's the worst wwdc in recent memory. many of the parts of the keynote felt like they were included just to stretch the keynote to be long enough. a lot of the updates seem to be mid-2010s shallow tech ui updates rather than meeting the moment. 2/5 stars,negative
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"apple’s adhd is chronic right now 
+
+
+they were sooo into siri, then forgot about it. then the vision pro, then apple intelligence, and now this redesign. 
+
+can they not see anything through without jumping into something new???",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,they just confirmed in the platforms state of the union that tahoe is the final release for intel macs.,positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,one side-effect of the new menu bar customization options is i can now turn off menu bar icons for apps that would make me pay to do it in their app or don't give the option at all.,positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,all i care about is the song at the end. by far the best part. who is that performer?,positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"i just want apple to focus on stability. i’im tired of having ios and macos performance to be directly tired to your wifi. slow wifi makes everything ultra buggy somehow. 
+   
+i’m tired of safari on ios becoming randomly unresponsive, apps to suddenly take ages to lunch on a m3max macbook pro, tired of the ios camera deciding not to work or launch randomly. basically, i’m tired of not being able to rely fully on my apple devices.
+   
+new features, design, etc. are nice but the basics were left out for years now.",negative
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,anyone know how the ipados changes will look on an ipad mini?,neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,i'm testing the beta of ipados and can't share the enthusiasm. i don't see the point of having windows on the ipad. these can usually only be reduced in size to a certain extent... two windows and the screen is already full - i don't really see the point. we'll see... then give us macos for the ipad rather than this in-between thing... to all of you who are happy about windows and are already testing the beta: what exactly do you like about it - what is your usecase?,positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"my biggest take away with the design language is that the accessibility aspect better be in a good place.
+
+i like the transparency and the glass features coming back into style but the one thing that threw me was how safari looked. that’s going to mess with folx with lower vision. 
+
+but i would expect apple to have that under control. i just hope they do. otherwise i know a number of elderly family and friends who won’t like the surprise change on ios and ipados. 
+
+tahoe on the other hand looks like it will be straightforward for upgrading company wide just like last year.",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"this is what happens when hardware devices, operating systems, and apps are mature. there's nothing left to revolutionize. nothing mind blowing left to unveil. updates become evolutionary iterations, sometimes for better, sometimes for worse. it's often change for change's sake.
+
+think cars, refrigerators, toasters. companies release new models every year with minor tweaks. nothing mind blowing year after year. there aren't any companies coming out with 5 wheel cars, or cars that drive on their sides, or joysticks and buttons instead of steering wheels and pedals. these are mature products that have reached standardization.
+
+electronics have reached that point too. we've been at peak smartphones, peak laptops, peak computers, peak cameras, and peak operating systems for several years. unless there are breakthroughs in physics, this is where we are for the foreseeable future.
+
+manage your expectations. get used to not having your mind blown for a while. just like cars. just like refrigerators. just like toasters. and that's ok.",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,can i get a yay or nay on this so i don’t have to sit through the presentation.,neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,is the order tracking only for apple pay orders?,neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,[deleted],neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,">> apple not too worried about what happens after 2099
+
+apple me",neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"i want to get rid of my phone and use only an  ipad as a phone. 
+
+would be nice if that were an option. seeing as ipad is one of their smallest markets, it’d be nice to see a special edition ipad with full phone capabilities. no iphone required
+
+what apple neglects to understand is an ipad phone is a compelling ‘kit’ gateway.  more reason to buy apple watch and airpods.",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"at this point it's creating more work for them to ***not*** allow macos. my ipad will be significantly more useful, but cmon.",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"mine was laggy for the first hour or so, but way better now.",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,my ipad pro m1 is struggling 🥹,neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,wow a beta has bugs. that’s fucking crazy,negative
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"> 
+> i loved the carplay changes, live activities + no more full screen calls
+>
+> call screening + call hold are amazing qol features
+
+these are my two most requested features, and like jesse spano, i'm so excited!",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,nope. couldn’t disagree more,positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,ah we get this comment every single year,negative
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"you haven’t even watched the keynote, how can you comment on it?
+
+https://www.reddit.com/r/apple/s/zldhpamtjq",neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"we were promised a complete overhaul in the design language, which is what we got. if you expected an earth shattering revolution when ios updates have been consistently iterative for a decade then that’s on you.",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"you know, you don’t actually have to watch the event, right?",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"i completely disagree. the real limitation isn’t physics—it’s lack of imagination and reluctance to invest in unproven concepts. if groundbreaking features were easy to create, they wouldn’t be groundbreaking.
+
+what we’re seeing now at apple is leadership that’s afraid to take big swings and has fundamentally lost touch with what made the company great.",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,i think you misunderstood what the wwdc keynote is,neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,have to make a reason for the >3 year old devices to slow down juuuuust enough to make it annoying as hell to use so the new ones get bought i guess,negative
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,sometimes the ios betas are pretty good to be honest.,positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,yes but 3 months to fix this seems a bit worrysome 😅,neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,nope. he’s wrong,negative
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,glad you like it. as a professional designer i will never use any of this in my work and i doubt others will either. especially since some of it like the full liquid glass effect can’t be replicated in browsers.,positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"lol, no. i still remember the laughs during steve jobs keynote when he showed leopard (iirc) desktop and people thought it was a windows vista pun… then they realised…",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"yeah, that's before my time 😬",neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,i didn’t feel this way about 2023 or 2024 fwiw,neutral
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"honestly, yeah. they’re apple.",positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,thanks! that’s a relief🙏🏻,positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,i heard the same shit about ios 7. ,negative
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"ah cool, it was just a half joke but every year someone says it was the worst wwdc ever",negative
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,nope. couldn’t disagree more,positive
+2025-06-09T21:00:00.000-05:00,2025-06-09T22:00:00.000-05:00,"couldn’t disagree more with your disagreement. 
+
+best of luck to you though. have a great day!",positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,ipados update was too good apple had to balance it out by ruining the ui for all their devices for the next decade,positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,preview is also on iphone and includes a dedicated document scanner to save right to your files!!,positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,any news on homepods?,neutral
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,any apple home changes? i was hoping they would add scheduled codes for locks,neutral
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,i need to know who the singer was at the end! amazing vocals!,positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,"this is not ios 26 and at most this should be ios 18.5.0. this was the worst wwdc i think i’ve ever seen. 
+
+honestly all of those ios features look like they could have been completely by just a couple developers and it’s embarrassing that this is how they wanted to use to create such a version change bench mark.",positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,"yeah, the notifications on lock screen seemed difficult to read.",negative
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,apple work for shareholders not consumers. shiny and new is all they need to hear,positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,was probably confused with the feature to search your current screen contents on google.,negative
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,how is that show still going?!,neutral
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,oooh!,neutral
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,it’s almost like different teams are responsible for different features,positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,[visionos got a pretty big update](https://9to5mac.com/2025/06/09/visionos-26-announced-with-spatial-widgets-all-new-personas-more/) and the keynote talked about apple intelligence constantly.,positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,that’s gonna happen alongside the new homeos/homepod w/ screen announcement later this year because it’s all dependent on the delayed ai-powered abilities.,positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,[deleted],neutral
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,apple adding markdown to notes this week is already paying off!,neutral
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,what. 100!!,neutral
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,why are you so obsessed with this that you have to comment about this specific thing multiple times?,negative
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,"this is from the apple website: **apple wallet** can now identify and summarize order tracking details from emails sent from merchants or delivery carriers. this works across all of a user’s orders, giving them the ability to see their full order details, progress notifications, and more, all in one place.",positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,"hmm then what's the difference in the new version? i thought it already did that, i'm seeing conflicting answers to this",positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,developer beta is always very buggy. first public beta is usually pretty solid,positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,this happens every single year. it’s almost always fine by launch,positive
+2025-06-09T22:00:00.000-05:00,2025-06-09T23:00:00.000-05:00,"why are people incorrectly attributing it to aero and not apple’s aqua and spatial interface? 
+
+why are you upset that i’m correcting it?",neutral
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,love the ipad os updates but i’m still bewildered there are no profiles in ipad os.,positive
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,oh my god the clear icons will be beautiful,positive
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,"*""hur dur bring back skeumrophism, flat design is so boring""*
+
+hope you're happy with this abomination lol",positive
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,they did not announced a new apple tv 4k?,positive
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,such a welcome change,positive
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,"been waiting for this ever since ipados split off from ios. we're getting pretty close to being able to just plug an ipad into a desktop hub with a keyboard, mouse, speakers, and maybe two external monitors.",positive
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,"will probably wait for the big ios 26.1 update this year, since there's probably going to be more bugs with an update as big as this one.",positive
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,wrong https://www.threads.com/@hasanahmad/post/dksolnjvat-?xmt=aqf0op7cmzzo8lf5urhp07w4m8w_nhl_vwbwktsaov0yrw,negative
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,folding phones are getting better and companies pumping money into their r&d are leaving apple in their dust.  with how many folding phones samsung and motorola have sold in the last several years it's obvious there is a market for it.  where is apple's version?,positive
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,seriously. i don’t understand why it was a thing in the first place.,negative
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,here’s hoping for a cross platform classical music app to follow.,neutral
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,"i mean you can do that already, minus the two monitors",negative
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,every year people say it’s so slow and after it indexes it’s fine lol yep,positive
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,it’s the first iteration of a beta version of a completely new system. they’re not spending any time making it intentionally worse on any device.,negative
+2025-06-09T23:00:00.000-05:00,2025-06-10T00:00:00.000-05:00,they were always good and i feel like i could pinpoint exactly when they went to shit and it was the introduction of swiftui in ios 13.,positive
+2025-06-10T00:00:00.000-05:00,2025-06-10T01:00:00.000-05:00,"despite a couple of minor steps in the right direction announced here, apple intelligence is still so unimpressive
+
+compared to the gemini keynote from google a couple of weeks ago, it's clear apple still aren't even competing in the same league",positive
+2025-06-10T00:00:00.000-05:00,2025-06-10T01:00:00.000-05:00,"super intrigued for the possibility of using apple intelligence as part of automation workflows, namely how it might work with keyboard maestro (which has some integration with shortcuts i believe?)",positive
+2025-06-10T00:00:00.000-05:00,2025-06-10T01:00:00.000-05:00,"""craig's fantasy"" might have more to do with the strange studio audio recording and the presenters miming along with their own speech than anything else.
+
+it was incredibly jarring.  if they think they pulled it off, someone needs to tell them they didn't.  i felt like i was watching a bad music video most of the time.",positive
+2025-06-10T00:00:00.000-05:00,2025-06-10T01:00:00.000-05:00,"it’s a developer beta, it’s hard to remember specifics anymore but i remember hating ios 7 too with some really ugly and hard to read elements here and there and they got buffed out. i’d submit a feedback report about the specific instances that suck and try not to worry as it will probably get refined by release.",negative
+2025-06-10T00:00:00.000-05:00,2025-06-10T01:00:00.000-05:00,for real.,positive
+2025-06-10T00:00:00.000-05:00,2025-06-10T01:00:00.000-05:00,"you can't just say ""wrong"" to dismiss other peoples opinions.
+
+plus, your video is going over the most simple type of relatively plain content possible (wikipedia). make a video in the apple music app instead.",negative
+2025-06-10T00:00:00.000-05:00,2025-06-10T01:00:00.000-05:00,can’t agree more,positive
+2025-06-10T00:00:00.000-05:00,2025-06-10T01:00:00.000-05:00,"> i don't recall any translucent glass or blurring.
+
+[really?](https://babich.biz/content/images/2022/08/aqua_button-2.jpg)
+
+from the [developer documentation](https://web.archive.org/web/20081007191229/https://developer.apple.com/documentation/macosx/conceptual/osx_technology_overview/userexperience/chapter_6_section_2.html):  
+_""aqua applications incorporate color, depth, **translucence**, and complex textures into a visually appealing interface.""_",positive
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,how long must we wait for apple to take focus modes seriously? dumb phones are getting to be popular. i get ads for literal devices designed to brick your phone. it could be so simple for apple to let you make a focus mode that hides all your apps except ones you need at work or what you need in bed or what you need for an emergency. and only show those apps! and only let those apps work when in that mode. it would also be cool to sandbox my work apps so i’m not tempted to peak at work emails when i’m at home and don’t get notifications from my pager app when i’m not on call.,positive
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,"ai apple watch: ""that was a great workout, here's some cab fare""",positive
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,"do not install developer beta 1 on your main devices people. 
+
+— sent from ios 26",positive
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,the fact that shit like this is readily celebrated and not just a small change made on update cycles through the year is genuinely hilarious. ,positive
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,multi window tasking is what i'm most excited about!,positive
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,we’ve had carplay for how many years? it should’ve been this way from the start and not have to come through an os update.,positive
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,so you’re telling me i shouldn’t install this on my 13 pro max?,neutral
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,what phones do you think these shareholders use?,neutral
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,"i don’t sub to music . here is one with the new photos app https://www.threads.com/@hasanahmad/post/dkskdgrvuij?xmt=aqf0_mumd7yg9v4leygdmvvrtxvodtwdydqxmhix43oa-q
+
+and here is one on the home screen 
+
+https://www.threads.com/@hasanahmad/post/dkspk2ivsww?xmt=aqf0mfiszfl6da8nsckq5_6g1-sxu-fw9clt8qdux_rmfa",positive
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,"regardless of that, shareholders do not and should never represent a consumer base",negative
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,"thanks for sharing that. in my opinion, when there is a colored button like the blue ""library"" in your video, the text is very very difficult to read. 
+
+also, when you tap the filter button, the ""..."" that appears is barely visible at all.
+
+imo it would look better if it were less transparent, or had increased background blur. but right now things that overlap blend into each other too much.",positive
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,"because it’s irrelevant. it doesn’t matter apple used it a billion years ago, this just heavily reminds people of aero/vista so they’ll make fun of it using that example. you can make your own jokes using aqua but likely no one will laugh. you’ll feel like you’re the smartest person in the room though!🤓",positive
+2025-06-10T01:00:00.000-05:00,2025-06-10T02:00:00.000-05:00,lol,positive
+2025-06-10T02:00:00.000-05:00,2025-06-10T03:00:00.000-05:00,"google is coming with android xr and veo 3. microsoft is coming with a new handheld and innovating on quantum computing and agentic ai. 
+
+apple is giving us transparent icons and more responsive typeface. 😞.",positive
+2025-06-10T02:00:00.000-05:00,2025-06-10T03:00:00.000-05:00,"my big takeaways 
+
+they have had a foldable in the works for sometime. the multitasking and windowing not so much. the ui screams multiple screens. a foldable is inbound (mac/ipad hybrid?)
+
+lower end vision air also is near. update is all about multiple devices that can collaborate and enjoy content in unison. need to be able to afford more than one for that .
+
+watchos really needs an ipad software moment.",positive
+2025-06-10T02:00:00.000-05:00,2025-06-10T03:00:00.000-05:00,tempted to sell my macbook pro and 2020 ipad pro 11 and get an m4 ipad pro 13 inch as my primary device. i don’t do any workload intensive tasks but need the 120hz,positive
+2025-06-10T02:00:00.000-05:00,2025-06-10T03:00:00.000-05:00,i n d e x i n g,neutral
+2025-06-10T02:00:00.000-05:00,2025-06-10T03:00:00.000-05:00,the carplay fix for the stupid full screen incoming calls was the biggest star of wwdc,negative
+2025-06-10T02:00:00.000-05:00,2025-06-10T03:00:00.000-05:00,you are using threads. opinion discarded. you are now dismissed.,neutral
+2025-06-10T02:00:00.000-05:00,2025-06-10T03:00:00.000-05:00,"correct, and that illustrates appallingly bad steward ship from ceo tim cook whose job it is to deliver.",negative
+2025-06-10T02:00:00.000-05:00,2025-06-10T03:00:00.000-05:00,a phone ui design faithful to aqua actually sounds pretty awesome.,positive
+2025-06-10T02:00:00.000-05:00,2025-06-10T03:00:00.000-05:00,"irrelevant. the point here is that putting time, money, effort, resources into a shiny new interface is is better for the short term bottom line",positive
+2025-06-10T03:00:00.000-05:00,2025-06-10T04:00:00.000-05:00,do we still have 5gb of icloud space?,neutral
+2025-06-10T03:00:00.000-05:00,2025-06-10T04:00:00.000-05:00,i'm right now just wondering why i even own a mac anymore 😭,positive
+2025-06-10T03:00:00.000-05:00,2025-06-10T04:00:00.000-05:00,i wouldn’t mind that honestly. i had a really sweet reskin on my s 22 ultra that was based on aqua. had the nyquil gel cap buttons and all lol,positive
+2025-06-10T03:00:00.000-05:00,2025-06-10T04:00:00.000-05:00,lol 😂,positive
+2025-06-10T04:00:00.000-05:00,2025-06-10T05:00:00.000-05:00,"i have to know, does anyone else feel like they dropped the ball across the board this year? no not everything is bad, but from design choice to lackluster features and no mention of addressing previous issues whilst adding fluff seems like a giant swing and a miss.",negative
+2025-06-10T04:00:00.000-05:00,2025-06-10T05:00:00.000-05:00,"given that the last remaining meaningful distinctions between ipados and macos are disappearing - with now a menu bar, traditional window management, a proper file browser and a proper cursor - why not just let people launch .app files?",positive
+2025-06-10T04:00:00.000-05:00,2025-06-10T05:00:00.000-05:00,what’s the best linux distro to run on intel mbps these days?,positive
+2025-06-10T04:00:00.000-05:00,2025-06-10T05:00:00.000-05:00,and the hairdo got higher.,positive
+2025-06-10T04:00:00.000-05:00,2025-06-10T05:00:00.000-05:00,">product team hears and what customers want
+
+they bitched for a mac style window system on ipad. now they have it. ",neutral
+2025-06-10T04:00:00.000-05:00,2025-06-10T05:00:00.000-05:00,can you not already do the app thing?,neutral
+2025-06-10T04:00:00.000-05:00,2025-06-10T05:00:00.000-05:00,"generally speaking, if the model works with one distro, any should work(assuming we are talking up to date with somewhat recentish kernels). imo, research if your model supports linux period, then research which distros stances on things matches up with your approach.
+
+just comes down to pref of de/wm, package management and w/e else comes with that distro. my personal rec is, if you want stable, old, but rock solid distro, debian. most up to date packages, arch. tbh, arch being unstable is kinda overblown, i run light maintenance(literally package updates) on my machine and it's coasted for years. nothing's broken.",positive
+2025-06-10T04:00:00.000-05:00,2025-06-10T05:00:00.000-05:00,he’s worried apple’s feelings will get hurt,neutral
+2025-06-10T05:00:00.000-05:00,2025-06-10T06:00:00.000-05:00,"??? people have absolutely been asking for a redesign, for like the last 5 years at least",negative
+2025-06-10T05:00:00.000-05:00,2025-06-10T06:00:00.000-05:00,aero was obviously primarily inspired by aqua. attention was drawn to this at the time.,positive
+2025-06-10T05:00:00.000-05:00,2025-06-10T06:00:00.000-05:00,a redesign happens every single year? a taxating glass layer ? 😅,negative
+2025-06-10T06:00:00.000-05:00,2025-06-10T07:00:00.000-05:00,"people have been asking for a visual refresh and it helps the overall product feel fresher, especially with all of the years of stagnant iphone design. 
+
+but also given the lack of any overall headlining features, a ux refresh seems to be their saving grace this year.",neutral
+2025-06-10T07:00:00.000-05:00,2025-06-10T08:00:00.000-05:00,great gui design stays out of your way. this liquid glass is like a toddler on a sugar high screaming “look at me! look at me!”,positive
+2025-06-10T07:00:00.000-05:00,2025-06-10T08:00:00.000-05:00,friend mentioned being very pleased with cachyos just yesterday.,positive
+2025-06-10T08:00:00.000-05:00,2025-06-10T09:00:00.000-05:00,"email was on my ‘want to see’ list.    nothing great great, but 2 new tweaks (using ai)
+
+from release page:
+
+1) reminders from mail:  - “the most relevant actions in an email, website, note, or other content can now be identified and automatically categorized in reminders”.
+
+2) order tracking from mail:    - “apple wallet can now identify and summarize order tracking details from emails sent from merchants or delivery carriers. “ “this works across all of a user’s orders, giving them the ability to see their full order details, progress notifications, and more, all in one place.”",positive
+2025-06-10T08:00:00.000-05:00,2025-06-10T09:00:00.000-05:00,"just read this blog, gives the event summary in 2 minutes: [https://medium.com/@aksh8t/everything-apple-announced-at-wwdc-2025-liquid-glass-ios-26-new-camera-app-look-and-much-more-c3769c2ac9c2](https://medium.com/@aksh8t/everything-apple-announced-at-wwdc-2025-liquid-glass-ios-26-new-camera-app-look-and-much-more-c3769c2ac9c2)",negative
+2025-06-10T08:00:00.000-05:00,2025-06-10T09:00:00.000-05:00,we used to tremble with anticipation of breakthrough devices and functionality now we witnessed a wwdc being about new colors and new icons.,positive
+2025-06-10T08:00:00.000-05:00,2025-06-10T09:00:00.000-05:00,"not me. now that ipados is practically a variant of macos i wonder which is the position of ipad in the product line, which is the additive value of this device.
+
+why should i spend 20%-30% more than i would for a macbook air 15” to get a device which resembles it but has less functionality?",positive
+2025-06-10T08:00:00.000-05:00,2025-06-10T09:00:00.000-05:00,"my 16pro is running fine but it gets extremely hot just having the phone open
+
+my ipad pro 11"" gen1 is laggy though.",positive
+2025-06-10T08:00:00.000-05:00,2025-06-10T09:00:00.000-05:00,"ipados runs only mobile apps so it's not a variant of macos.
+
+but i never understood ipad without having the ability to multitask. now i am not still convinced anyway.",neutral
+2025-06-10T08:00:00.000-05:00,2025-06-10T09:00:00.000-05:00,if windows vista did it in 2007 i doubt it’s *that* intense.,positive
+2025-06-10T08:00:00.000-05:00,2025-06-10T09:00:00.000-05:00,"it’s not a mobile it’s not a laptop. it used to be a mobile with larger screen and interactive interface now it’s even less that.
+
+and the worse of all is, it’s priced more than a laptop",negative
+2025-06-10T08:00:00.000-05:00,2025-06-10T09:00:00.000-05:00,"your resources are *after* the release of vista and few years after the presentation of vista. he is right. and the button doesn't mean whole windows, notifications and toolbars were translucent.",negative
+2025-06-10T09:00:00.000-05:00,2025-06-10T10:00:00.000-05:00,no. if anything it’s the evolution of circa year 2000 aqua design.,neutral
+2025-06-10T09:00:00.000-05:00,2025-06-10T10:00:00.000-05:00,i feel like it tells a lot about a person whether they respond to good news with excitement vs “this should have been this way already”.,positive
+2025-06-10T09:00:00.000-05:00,2025-06-10T10:00:00.000-05:00,vista did transparency and blur. this is doing that in addition to refraction simulations.,neutral
+2025-06-10T10:00:00.000-05:00,2025-06-10T11:00:00.000-05:00,"yes, liquid glass looks comically bad (illegible or intrusive and clunky) in so many places — they will need to massively tone this down by final release. it makes sense for a ar headset but not for universal design across all devices. i’m just shocked they went in this direction. people really just wanted new icons lol.",positive
+2025-06-10T11:00:00.000-05:00,2025-06-10T12:00:00.000-05:00,no. you can only turn off notifications for apps,neutral
+2025-06-10T12:00:00.000-05:00,2025-06-10T13:00:00.000-05:00,rip safari privacy mode ios 26,neutral
+2025-06-10T12:00:00.000-05:00,2025-06-10T13:00:00.000-05:00,"shareholders want apple to raise their stock price by becoming more profitable, which happens when you sell to customers. what is this bad logic ? maybe most people aren't power users on reddit who have no care for aesthetics and apple's billion dollar team know who they are designing for.",positive
+2025-06-10T12:00:00.000-05:00,2025-06-10T13:00:00.000-05:00,"check out r/iosbeta. people are saying that after the initial indexing is done, it runs a lot smoother",neutral
+2025-06-10T13:00:00.000-05:00,2025-06-10T14:00:00.000-05:00,">apple not too worried about what happens after 2099
+
+at that point, they will reuse. only reddit will be saying ""wait you used that 50+ years ago!""",neutral
+2025-06-10T13:00:00.000-05:00,2025-06-10T14:00:00.000-05:00,swiftui is 🗑️,neutral
+2025-06-10T13:00:00.000-05:00,2025-06-10T14:00:00.000-05:00,"> your resources are after the release of vista and few years after the presentation of vista.
+
+i didn't say anything about vista.  but aqua in mac os was introduced in 2001, vista was 2006.
+
+> the button doesn't mean whole windows, notifications and toolbars were translucent.
+
+i was replying to someone who said ""i don't recall _**any**_ translucent glass or blurring"" ... but here you go:  
+[translucent window title bars [os 10 dp3, 2000]](https://ismh.s3.amazonaws.com/macosxdp3.png)  
+[translucent window title bars, menus, dock [os 10 dp4, 2000]](https://guidebookgallery.org/pics/gui/desktop/full/macosxdp4.png)  
+[translucent menus [os 10.0.4, 2001]](https://ismh.s3.amazonaws.com/macosx100.png)  
+[more translucency [jaguar, 2002]](https://ismh.s3.amazonaws.com/2014-04-22-jaguar.png)",negative
+2025-06-10T13:00:00.000-05:00,2025-06-10T14:00:00.000-05:00,"you cut from the context ""os x didn't start doing that until after windows vista.""",neutral
+2025-06-10T14:00:00.000-05:00,2025-06-10T15:00:00.000-05:00,is stage manager on iphone now via usb c and external monitor?,neutral
+2025-06-10T14:00:00.000-05:00,2025-06-10T15:00:00.000-05:00,"> ever since ipados split off from ios
+
+but it didn't. they both use the same apis. the only real difference between the two is ipad uses split screen and has peripheral support.
+
+as far as developing between the two, all devs see is a different screen size",positive
+2025-06-10T14:00:00.000-05:00,2025-06-10T15:00:00.000-05:00,it was the only time i literally paused the stream. i couldn't believe my eyes lmao,positive
+2025-06-10T14:00:00.000-05:00,2025-06-10T15:00:00.000-05:00,"huh. how do i have different home screens set up, then? 🤔 i’ll have to figure that out",neutral
+2025-06-10T14:00:00.000-05:00,2025-06-10T15:00:00.000-05:00,2000 comes before 2006,neutral
+2025-06-10T14:00:00.000-05:00,2025-06-10T15:00:00.000-05:00,"great. vista looking macos it is anyway.
+
+  
+actually not even that.",positive
+2025-06-10T15:00:00.000-05:00,2025-06-10T16:00:00.000-05:00,apple should make an ultra futuristic transparent glass phone.,neutral
+2025-06-10T15:00:00.000-05:00,2025-06-10T16:00:00.000-05:00,better be an option to turn liquid glass off,positive
+2025-06-10T15:00:00.000-05:00,2025-06-10T16:00:00.000-05:00,"it doesn't have to be actually transparent. it can be wrapped in pixels on all sides and project the background behind the glass ui with ar tech.
+
+#",negative
+2025-06-10T15:00:00.000-05:00,2025-06-10T16:00:00.000-05:00,"still, even as the first beta, you mean to tell me that for however many months/years, none of the dozens/hundreds of people at apple that worked on this ui found any issue at all with the legibility of text?
+
+there's ""this feature is still being refined and may have bugs"" type of issues, and then there's ""we did this day one and never saw anything wrong with it, why are you complaining/using it wrong"" type of issues. this is the latter.",negative
+2025-06-10T15:00:00.000-05:00,2025-06-10T16:00:00.000-05:00,"it’s so annoying.
+x was filled with these people.
+“i just downloaded and installed a brand new major version of os and my phone is so laggy don’t do it!”
+meanwhile, their phone is still 200 degrees since it just finished the update while being plugged in.
+
+let the phone cooldown and the background processes finish and it’s not as bad. it’s not perfect. but it’s not a sluggish, horrible mess.",negative
+2025-06-10T17:00:00.000-05:00,2025-06-10T18:00:00.000-05:00,"there is absolutely no way i can believe that design team though this was something to shout about, especially liquid glass. 
+
+they should be fired!",negative
+2025-06-10T17:00:00.000-05:00,2025-06-10T18:00:00.000-05:00,"> apple cash request and sending in groups
+> 
+
+this actually seems potentially huge. right now, most folks i know use venmo or zelle, but if apple can make it easy to pay from iphone to iphone, they could snag a chunk of that market
+
+how they make money on it, i'm not sure...",positive
+2025-06-10T18:00:00.000-05:00,2025-06-10T19:00:00.000-05:00,i can’t wait to share presentations on msteams like i can on macos! 😃,neutral
+2025-06-10T20:00:00.000-05:00,2025-06-10T21:00:00.000-05:00,i’m very lost here. we just got ios 18 not too long ago. so why are they announcing ios 26? what am i missing here?,negative
+2025-06-10T20:00:00.000-05:00,2025-06-10T21:00:00.000-05:00,anything less would be a massive step backwards for accessibility.  the contrast levels in many of the screenshots looked far out of compliance with wcag standards.,positive
+2025-06-10T22:00:00.000-05:00,2025-06-10T23:00:00.000-05:00,i love the new simplified look of the camera. i'm one of the 99% of people that only uses the default photo and video and will never change it and not seeing all that extra bloat is a good thing.,positive
+2025-06-10T22:00:00.000-05:00,2025-06-10T23:00:00.000-05:00,"they’re just simplifying/unifying version numbers. now, the os will carry the number representing the year it will be used the most, in this case ios 26 for 2026 (since it releases this fall).
+
+see this video (at 12:37): https://www.youtube.com/live/0_djddfqtue",positive
+2025-06-11T01:00:00.000-05:00,2025-06-11T02:00:00.000-05:00,what users/customers say they want and what they want aren't always in alignment.,neutral
+2025-06-11T01:00:00.000-05:00,2025-06-11T02:00:00.000-05:00,"this happened with 7 too, although 7 was way out there, i can see 26 being tweaked a bit and coming into compliance.",neutral
+2025-06-11T03:00:00.000-05:00,2025-06-11T04:00:00.000-05:00,"i know i'm late to this, but actions in spotlight looks great. multiple desktop apps have individually implemented command palettes, so being able to search menu bar items in any app seems incredible. very jealous as a windows user.
+
+edit: holy shit. with incredible timing, i accidentally pressed the ""f"" key as i was browsing reddit and noticed that even res has a command palette!",positive
+2025-06-11T03:00:00.000-05:00,2025-06-11T04:00:00.000-05:00,they’re not spending any time making it intentionally optimized either,neutral
+2025-06-11T05:00:00.000-05:00,2025-06-11T06:00:00.000-05:00,i liked the event!,positive
+2025-06-11T07:00:00.000-05:00,2025-06-11T08:00:00.000-05:00,"ios 18: trash  
+ios 26: trash part 2",neutral
+2025-06-11T08:00:00.000-05:00,2025-06-11T09:00:00.000-05:00,you need to see this bruh- https://medium.com/@aksh8t/everything-apple-announced-at-wwdc-2025-liquid-glass-ios-26-new-camera-app-look-and-much-more-c3769c2ac9c2,neutral
+2025-06-11T08:00:00.000-05:00,2025-06-11T09:00:00.000-05:00,check this out then- https://medium.com/@aksh8t/everything-apple-announced-at-wwdc-2025-liquid-glass-ios-26-new-camera-app-look-and-much-more-c3769c2ac9c2,neutral
+2025-06-11T09:00:00.000-05:00,2025-06-11T10:00:00.000-05:00,"all i want is to be able to customize the imessage text bubble color to be the same, no matter if it's sms, mms, rcs, or imessage. or at the very least, change it from the purposely obnoxious green color.
+
+obviously, it's never going to happen because apple, so i guess i have to be satisfied with animated backgrounds.",positive
+2025-06-11T16:00:00.000-05:00,2025-06-11T17:00:00.000-05:00,i haven’t heard of this. will have a look.,neutral
+2025-06-11T16:00:00.000-05:00,2025-06-11T17:00:00.000-05:00,"awesome info.  thanks 🙏🏻 
+
+it’s sounds like debian will be making its way back into my life again!",positive
+2025-06-11T17:00:00.000-05:00,2025-06-11T18:00:00.000-05:00,fight the good fight brother.,positive
+2025-06-12T02:00:00.000-05:00,2025-06-12T03:00:00.000-05:00,"this is a standard antisocial behavior for humans, so much so that every every language has a word for it.  in english the word is “killjoy,” being person who deliberately spoils the enjoyment of others through resentful or overly sober behavior.  trolling is as old as humanity.",positive
