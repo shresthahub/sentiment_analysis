@@ -31,7 +31,7 @@ df_clean.show(20, truncate=True)
 df_clean.printSchema()
 
 # 1. Show null or empty fields
-print("\n🔍 Null or empty fields:")
+print("\n Null or empty fields:")
 df_clean.filter(
     col("comment_id").isNull() |
     col("author").isNull() |
@@ -41,15 +41,15 @@ df_clean.filter(
 ).show(truncate=False)
 
 # 3. Count rows and authors
-print(f"\n📊 Total rows: {df_clean.count()}")
-print(f"📊 Unique authors: {df_clean.select('author').distinct().count()}")
+print(f"\n Total rows: {df_clean.count()}")
+print(f" Unique authors: {df_clean.select('author').distinct().count()}")
 
 # 4. Data type cleanup
 df_clean = df_clean.withColumn("score", col("score").cast("int"))
 df_clean = df_clean.withColumn("readable_time", to_timestamp("readable_time", "yyyy-MM-dd HH:mm:ss"))
 
 # 5. Print schema
-print("\n✅ Final schema:")
+print("\n Final schema:")
 df_clean.printSchema()
 
 # Stop the Spark session when done
